@@ -7,7 +7,7 @@ Project ini bertujuan untuk menganalisis data anime menggunakan Python dan panda
 ## Tujuan
 
 - Menampilkan data anime dari file CSV
-- Melakukan filtering berdasarkan rating
+- Melakukan filtering berdasarkan rating dan tahun rilis
 - Menghitung statistik dasar (mean, median, min, max)
 - Membandingkan rating sebelum dan setelah tahun 2000
 
